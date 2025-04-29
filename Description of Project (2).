@@ -1,0 +1,29 @@
+🏅 Sports Data Cleaning & Preparation - Excel Project 2024
+This Excel project focuses on cleaning and organizing raw sports-related data to make it ready for meaningful analysis and reporting. 🧹📊
+The goal was to transform an unstructured dataset into a clean, analyzable format using core Excel data handling skills.
+
+📂 What's Inside the Excel File?
+
+✨ Key Actions Performed:
+🧼 Data Cleaning.
+Removed unnecessary blank rows and columns.
+Fixed formatting inconsistencies.
+Standardized column headers for clarity.
+
+🏷️ Text Functions used to clean and extract key data (e.g., TRIM, PROPER, TEXT TO COLUMNS).
+🧮 Date & Numeric Fixes: Corrected inconsistent date formats and numeric fields.
+📑 Reorganized the data structure for better readability and future dashboarding.
+
+🛠️ Excel Tools & Features Used:
+✅ Data Cleaning Techniques.
+✅ Text Functions like TRIM(), PROPER(), LEFT(), etc.
+✅ Text to Columns for separating merged data.
+✅ Sorting & Filtering for organization.
+✅ Manual Cleanup for misaligned or malformed entries.
+
+💡 Use Case
+Perfect for anyone working on sports analytics, freelance data projects, or building dashboards — this cleaned dataset is now ready to plug into Pivot Tables, Charts, or Power BI for deeper insights.
+
+👉 Want a custom Excel solution like this for your data? Let’s collaborate on your next project! 💼📈
+
+#️⃣ #ExcelProject #DataCleaning #SportsAnalytics #ExcelSkills #FreelanceExcel #DataPreparation #MicrosoftExcel #SpreadsheetCleanup #ExcelForFreelancers #DataWrangling
